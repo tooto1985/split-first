@@ -1,0 +1,20 @@
+{
+  "name": "split-first",
+  "version": "0.0.1",
+  "description": "Split the first separator of string.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tooto1985/split-first.git"
+  },
+  "keywords": [
+    "split",
+    "first"
+  ],
+  "author": "Tommy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tooto1985/split-first/issues"
+  },
+  "homepage": "https://github.com/tooto1985/split-first#readme"
+}

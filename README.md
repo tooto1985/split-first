@@ -2,6 +2,7 @@
 =============================
 > Split the first separator of string.
 
+[![NPM](https://nodei.co/npm/split-first.png)](https://nodei.co/npm/split-first/)
 
 ## Install
 
